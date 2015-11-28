@@ -32,8 +32,6 @@ public class BizonCrawler {
 
         logger.info( "try to dismember bizon" );
 
-
-
         CrawlConfig config = new CrawlConfig();
         PageFetcher pageFetcher = new PageFetcher(config);
         RobotstxtConfig robotstxtConfig = new RobotstxtConfig();
