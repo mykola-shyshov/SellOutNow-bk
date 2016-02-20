@@ -1,2 +1,3 @@
+[![Status](https://img.shields.io/badge/status-postponed-lightgrey.svg)]()
 
- Hello fellow! this is project for collection sale products info
+draft-pet project. 
